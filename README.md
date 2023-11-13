@@ -2,16 +2,18 @@
 
 My name is Xu Nuoyan, an undergraduate student majoring in architecture.</br>
 I'm working on parametric design and extended development.</br>
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wunuoo&show_icons=true&theme=noctis_minimus&hide=issues">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=wunuoo&show_icons=true&theme=graywhite&hide=issues">
-</picture>
+Still learning coding currently, I try to make a little bit progress in everyday life.
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wunuoo&hide=Mathematica&theme=noctis_minimus">
-    <img align="left" width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wunuoo&hide=Mathematica&theme=graywhite">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wunuoo&hide=Mathematica&theme=graywhite">
 </picture>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wunuoo&show_icons=true&theme=noctis_minimus&hide=issues">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=wunuoo&show_icons=true&theme=graywhite&hide=issues">
+</picture>
+
 
 <!--
 **wunuoo/wunuoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
