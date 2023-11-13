@@ -3,7 +3,7 @@
 My name is Xu Nuoyan, an undergraduate student majoring in architecture.</br>
 I'm currently learning parametric design and extended development.</br>
 
-<p><b>Programming Language:</p>
+<p><b>Programming Language:</b></p>
 
 ![Static Badge](https://img.shields.io/badge/C%23-984993)
 ![Static Badge](https://img.shields.io/badge/Python%203-3d79aa)
