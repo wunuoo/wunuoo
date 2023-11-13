@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align = 'center'>Hi, nice to meet you! 👋</h1>
+I am wunuoo, majoring in architecture, and have a little bit interest in parametric design and extended development.
 
 <!--
 **wunuoo/wunuoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
