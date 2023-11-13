@@ -2,7 +2,7 @@
 
 My name is Xu Nuoyan, an undergraduate student majoring in architecture.</br>
 I'm working on parametric design and extended development.</br>
-Still learning coding currently, I try to make a little bit progress in everyday life.
+https://img.shields.io/badge/just%20the%20message-8A2BE2
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wunuoo&hide=Mathematica&theme=noctis_minimus">
