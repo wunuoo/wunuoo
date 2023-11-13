@@ -1,7 +1,13 @@
 <h1>你好呀 👋 Nice to see you!</h1>
 
-My name is Xu Nuoyan, an undergraduate student majoring in architecture.</br>
-I'm currently learning parametric design and extended development.</br>
+My name is Xu Nuoyan, an undergraduate student majoring in architecture.
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wunuoo&show_icons=true&theme=noctis_minimus&hide=issues">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=wunuoo&show_icons=true&theme=graywhite&hide=issues">
+</picture>
+</br>
+I'm currently learning parametric design and extended development.
+</br>
 
 <p><b>Programming Language:</b></p>
 
@@ -11,16 +17,15 @@ I'm currently learning parametric design and extended development.</br>
 
 
 
-
+<!--
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wunuoo&hide=Mathematica&theme=noctis_minimus">
     <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wunuoo&hide=Mathematica&theme=graywhite">
 </picture>
+-->
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wunuoo&show_icons=true&theme=noctis_minimus&hide=issues">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=wunuoo&show_icons=true&theme=graywhite&hide=issues">
-</picture>
+
+
 
 
 <!--
