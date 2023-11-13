@@ -3,7 +3,7 @@
 My name is Xu Nuoyan, an undergraduate student majoring in architecture.
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wunuoo&show_icons=true&theme=noctis_minimus&hide=issues">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=wunuoo&show_icons=true&theme=graywhite&hide=issues">
+    <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=wunuoo&show_icons=true&theme=graywhite&hide=issues">
 </picture>
 </br>
 I'm currently learning parametric design and extended development.
