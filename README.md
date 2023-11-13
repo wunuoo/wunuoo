@@ -1,8 +1,16 @@
 <h1>你好呀 👋 Nice to see you!</h1>
 
 My name is Xu Nuoyan, an undergraduate student majoring in architecture.</br>
-I'm working on parametric design and extended development.</br>
-https://img.shields.io/badge/just%20the%20message-8A2BE2
+I'm currently learning parametric design and extended development.</br>
+
+<p><b>Programming Language:</p>
+
+![Static Badge](https://img.shields.io/badge/C%23-984993)
+![Static Badge](https://img.shields.io/badge/Python%203-3d79aa)
+
+
+
+
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wunuoo&hide=Mathematica&theme=noctis_minimus">
