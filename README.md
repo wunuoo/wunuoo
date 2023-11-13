@@ -1,6 +1,9 @@
-<h1 align = 'center'>Hi, nice to meet you! 👋</h1>
-I am wunuoo, majoring in architecture, and have a little bit interest in parametric design and extended development.
+<h1>你好呀 👋 Nice to see you!</h1>
 
+My name is Xu Nuoyan, an undergraduate student majoring in architecture.</br>
+I'm working on parametric design and extended development.</br>
+
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=wunuoo)
 <!--
 **wunuoo/wunuoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
