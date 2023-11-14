@@ -1,4 +1,4 @@
-<h1>Hi, Nice to see you! 👋</h1>
+<h1>Hi, so nice to see you! 👋</h1>
 
 
 An undergraduate student majoring in architecture.
