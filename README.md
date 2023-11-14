@@ -1,4 +1,5 @@
-<h1>你好呀 👋 Nice to see you!</h1>
+<h1>Hi, Nice to see you! 👋</h1>
+
 
 My name is Xu Nuoyan, an undergraduate student majoring in architecture.
 <picture>
